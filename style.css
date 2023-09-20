@@ -1,3 +1,7 @@
 p {
   font-size: xx-large;
 }
+button {
+  font-size: 16px;
+  padding: 10px, 20px;
+}
